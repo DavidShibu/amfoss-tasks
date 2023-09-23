@@ -1,0 +1,15 @@
+body {
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    background-image: url('background.jpg');
+  }
+  #wetherValue{
+    font-size: large;
+  }
+  #city{
+    width: 70%;
+    height: 15px;
+  }
