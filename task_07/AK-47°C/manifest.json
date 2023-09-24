@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Weather App",
     "description": "An App which display weather",
-    "version": "1.0",
+    "version": "0.0.3",
     "action": {
       "default_popup": "./weather.html",
       "default_icon": "./icon.png"
