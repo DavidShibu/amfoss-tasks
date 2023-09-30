@@ -1,0 +1,1 @@
+This task was pretty much challenging as I had to go through 10 different languages. The problem to be solved was bit hard too so that I had to go through the topics in a bit detail. I took the help of some webpages,Chat Gpt to know the syntax and format of the languages that I didn't know. I had also used some online compilers to run the code.
