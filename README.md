@@ -12,3 +12,23 @@ For the next 6 months I will try to improve my coding skills and try to learn di
 I will try my best by mentoring my juniors and by sharing my knowledge with all other members of the club and will try to raise the glory of oru club in all aspects.
 ### DO YOU HAVE ANY FEEDBACK ON THE SELECTION PROCESS?
 Most of the tasks included in this preveshan process was challenging for me. Through this I could learn more about different domains and aspects. I am sure it will be very useful for me in the long run.  I have tried my best in solving the tasks. I am attaching the status of the tasks here.
+
+**Tasks List**|**Description**|**Status**
+--------------|---------------|---------------
+[Introspection](https://github.com/DavidShibu/amfoss-tasks#introspection)|Introspection|Completed
+[Task-00](https://github.com/DavidShibu/amfoss-tasks/tree/main/task-00)|Installing Ubuntu|Completed
+[Task-01](https://github.com/DavidShibu/amfoss-tasks/tree/main/task_01)|Terminal wizard|Completed
+[Task-02](https://github.com/DavidShibu/amfoss-tasks/tree/main/task_02)|Lessgo HUGO|Completed
+[Task-03](https://github.com/DavidShibu/amfoss-tasks/tree/main/task_03)|Hello world!|Completd 
+[Task-04](https://github.com/DavidShibu/amfoss-tasks/tree/main/task_04)|Competitive programming|Completed partialy
+[Task-05](https://github.com/DavidShibu/amfoss-tasks/tree/main/task_05)|HperTextMarkUpLanguage|Completed 
+[Task-06](https://github.com/DavidShibu/amfoss-tasks/tree/main/task_06)|Cricket vault|Completed
+[Task-07](https://github.com/DavidShibu/amfoss-tasks/tree/main/task_07)|Ak-47C|Completed
+[Task-08](https://github.com/DavidShibu/amfoss-tasks/tree/main/task_08)|Poke-Search|Unattempted
+[Task-09](https://github.com/DavidShibu/amfoss-tasks/tree/main/task_09)|GeoQuest|Unattempted
+[Task-10](https://github.com/DavidShibu/amfoss-tasks/tree/main/task_10)|RustOS|Unattempted
+[Task-11](https://github.com/DavidShibu/amfoss-tasks/tree/main/task_11)|Tinker Cad|Completed
+[Task-12](https://github.com/DavidShibu/amfoss-tasks/tree/main/task_12)|Godot|Unattempted
+[Task-13](https://github.com/DavidShibu/amfoss-tasks/tree/main/task_13)|Vim|Completed
+[Task-14](https://github.com/DavidShibu/amfoss-tasks/tree/main/task_14)|Bandit|Completed
+[Task-15](https://github.com/DavidShibu/amfoss-tasks/tree/main/task_15)|Project Euler|Completed 
