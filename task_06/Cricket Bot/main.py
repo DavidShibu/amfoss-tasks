@@ -32,7 +32,8 @@ async def livescore(ctx):
         score = score_element.text.strip()
         dates.append(score)
     dateData = dates[0].split(',')
-    date = dateData[2].lstrip()+' '+dateData[3]
+    print(dateData)
+    date = dateData[1].lstrip()+' '+dateData[2]
 
     scores = []
     # Find Score
