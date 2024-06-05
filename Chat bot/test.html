@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot Container</title>
+</head>
+<body>
+    <div>
+        <label for="username">Enter your name:</label>
+        <input type="text" id="username" placeholder="Your name...">
+    </div>
+    <iframe src="chat.html" width="450px" height="500px" id="chatFrame"></iframe>
+    <button onclick="sendMessage()">Send</button> <!-- Add this button -->
+    <script>
+        function sendMessage() {
+            const iframe = document.getElementById('chatFrame');
+            const username = document.getElementById('username').value;
+            iframe.contentWindow.postMessage({ type: 'sendMessage', username: username }, '*');
+        }
+    </script>
+</body>
+</html>
